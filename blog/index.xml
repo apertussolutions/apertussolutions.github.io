@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Apertus Solutions</title>
+    <link>https://apertussolutions.com/blog/</link>
+    <description>Recent content in Blogs on Apertus Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 17:07:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://apertussolutions.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Website</title>
+      <link>https://apertussolutions.com/blog/page-launch/</link>
+      <pubDate>Thu, 23 Jul 2020 17:07:38 -0400</pubDate>
+      
+      <guid>https://apertussolutions.com/blog/page-launch/</guid>
+      <description>Apertus is please to launch our newly revised website. The new site provides details on our newly announced Fidelis Platform.</description>
+    </item>
+    
+  </channel>
+</rss>

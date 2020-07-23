@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apertus Solutions</title>
+    <link>https://apertussolutions.com/</link>
+    <description>Recent content on Apertus Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2020 17:07:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://apertussolutions.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Website</title>
+      <link>https://apertussolutions.com/blog/page-launch/</link>
+      <pubDate>Thu, 23 Jul 2020 17:07:38 -0400</pubDate>
+      
+      <guid>https://apertussolutions.com/blog/page-launch/</guid>
+      <description>Apertus is please to launch our newly revised website. The new site provides details on our newly announced Fidelis Platform.</description>
+    </item>
+    
+    <item>
+      <title>Fidelis Platform</title>
+      <link>https://apertussolutions.com/products/fidelis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apertussolutions.com/products/fidelis/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://apertussolutions.com/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apertussolutions.com/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Linux Plumbers Conference: System Boot and Security MicroConference</title>
+      <link>https://apertussolutions.com/events/plumbers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apertussolutions.com/events/plumbers/</guid>
+      <description>TrenchBoot contributors Piotr Król and Daniel Kiper will be joining Matthew Garrett to lead a discussion on System Boot security.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://apertussolutions.com/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://apertussolutions.com/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+  </channel>
+</rss>
